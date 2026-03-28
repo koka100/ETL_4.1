@@ -128,7 +128,8 @@ print("Результат вычисления DAG:", z.compute())
 ```
 Результат: 
 
-<img width="350" height="275" alt="image" src="img/simple_violation_analysis.png" />
+<img width="491" height="774" alt="image" src="https://github.com/user-attachments/assets/a303890a-cf4d-47b1-8f1e-ac82993ce9bd" />
+
 
 ### 2. Сложный граф (Анализ по районам NYC)
 
