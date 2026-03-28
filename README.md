@@ -175,7 +175,8 @@ print("Результаты по районам % (NY, K, Q, BX, R):", results.c
 ```
 Результат:
 
-<img width="350" height="275" alt="image" src="img/complex_district_analysis.png" />
+<img width="2317" height="1345" alt="image" src="https://github.com/user-attachments/assets/0d15690c-fef1-4673-9a67-3d228cedc5e5" />
+
 
 ## Аналитика
 <img width="1011" height="615" alt="image" src="https://github.com/user-attachments/assets/f6dcfc8b-9225-403a-bb77-75c2d8300996" />
